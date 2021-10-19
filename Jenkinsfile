@@ -6,9 +6,9 @@ pipeline {
 	    AWS_REGION = 'us-east-1'
             bucketName = "testbucket-anne"
 			stackFileName = "wp.yaml"
-			VpcId = "vpc-0c0aaa01e7b925bed"
-			PubSub1 = "subnet-078cf6ab4e3ea4c9b"
-			PubSub2 = "subnet-0f21467dcba8e1aad"
+			VpcId = "vpc-053b338aed86f79f5"
+			PubSub1 = "subnet-060175f4908d5c3ee"
+			PubSub2 = "subnet-07ef4041f59516e23"
     }
 	
 	parameters { 
